@@ -1,1 +1,3 @@
-HELLO
+HELLO BUDDY
+
+MODULE2 = Wicked fun
