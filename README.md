@@ -1,3 +1,5 @@
 HELLO BUDDY
 
-MODULE2 = Wicked fun
+MODULE2 = Foobar
+
+MODULE3 = Wicked fun
