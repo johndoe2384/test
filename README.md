@@ -1,4 +1,4 @@
-HELLO BUDDY 1
+HELLO BUDDY 2
 
 MODULE2 = Foobar
 
