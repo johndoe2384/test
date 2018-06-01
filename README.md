@@ -1,1 +1,3 @@
 HELLO
+
+MODULE2 = Foobar
