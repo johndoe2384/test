@@ -4,4 +4,4 @@ MODULE2 = Foobar
 
 MODULE3 = Wicked fun
 
-MODULE4 = WIZZY !
+MODULE4 = SUPERMAN !!
