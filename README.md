@@ -5,3 +5,6 @@ MODULE2 = Foobar
 MODULE3 = Wicked fun
 
 MODULE4 = M&Ms
+
+MODULE5 = HUMP !
+
